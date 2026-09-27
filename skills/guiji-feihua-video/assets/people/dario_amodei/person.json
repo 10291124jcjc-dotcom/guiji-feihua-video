@@ -1,0 +1,19 @@
+{
+  "name_zh": "达里奥·阿莫迪",
+  "name_en": "Dario Amodei",
+  "org": "Anthropic",
+  "photo": "photo.jpg",
+  "crop": [0, 0, 960, 1280],
+  "mirror": true,
+  "sure_fg": [["ell", [500, 420, 150, 190]], ["ell", [430, 250, 190, 120]], ["rect", [80, 880, 820, 1200]]],
+  "sure_bg": [["rect", [760, 0, 900, 640]], ["rect", [0, 0, 150, 500]], ["rect", [0, 0, 900, 22]],
+              ["rect", [868, 640, 900, 1200]], ["rect", [784, 860, 900, 1045]]],
+  "fade_corner": {"from_y": 700, "ramp": 100, "width": 160},
+  "facing": "left",
+  "credit": {
+    "file": "Dario Amodei in 2023 (cropped).jpg",
+    "author": "UK Prime Minister / Flickr",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023_(cropped).jpg"
+  }
+}

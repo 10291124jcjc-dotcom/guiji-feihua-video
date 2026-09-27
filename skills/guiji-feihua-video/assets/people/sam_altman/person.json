@@ -1,0 +1,19 @@
+{
+  "name_zh": "山姆·奥特曼",
+  "name_en": "Sam Altman",
+  "org": "OpenAI",
+  "photo": "photo.jpg",
+  "crop": [150, 0, 1110, 1280],
+  "mirror": false,
+  "sure_fg": [["ell", [505, 520, 135, 200]], ["ell", [470, 250, 200, 120]], ["rect", [60, 1000, 840, 1200]]],
+  "sure_bg": [["rect", [0, 0, 150, 760]], ["rect", [765, 0, 900, 250]], ["rect", [703, 250, 900, 560]],
+              ["rect", [688, 560, 900, 780]], ["rect", [0, 0, 900, 30]]],
+  "fade_corner": null,
+  "facing": "right",
+  "credit": {
+    "file": "Sam Altman CropEdit James Tamim.jpg",
+    "author": "TechCrunch",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg"
+  }
+}

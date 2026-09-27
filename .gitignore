@@ -1,0 +1,14 @@
+# 密钥：绝对不要提交
+.env
+.env.*
+!.env.example
+
+# 生成物
+build/
+cache/
+__pycache__/
+*.pyc
+_mask.png
+_manga.png
+录音/
+voice_config.json

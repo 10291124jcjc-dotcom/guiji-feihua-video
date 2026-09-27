@@ -1,0 +1,31 @@
+{
+  "title": "从战友到对手",
+  "brand": "硅基废话",
+  "output_name": "硅基废话｜奥特曼与阿莫迪：从战友到对手",
+  "people": ["sam_altman", "dario_amodei"],
+  "sources": "CNBC、Fortune、CNN、Bloomberg、Axios、Anthropic 与 OpenAI 官方发布等公开报道",
+  "end_card_seconds": 6.5,
+  "chapters": {
+    "title": "从战友到对手",
+    "bios": "两个人的背景",
+    "openai2015": "2015：OpenAI 成立",
+    "meet2016": "2016：达里奥加入",
+    "golden": "黄金搭档期：RLHF、GPT-2/3、缩放定律",
+    "rift": "裂痕",
+    "leave": "2020 年底：出走，创立 Anthropic",
+    "race": "ChatGPT vs Claude，2023 年董事会风波",
+    "clash2026": "2026：竞争摆上台面",
+    "models": "今天的模型：GPT vs Claude",
+    "vision": "两人的愿景",
+    "ending": "联合国安理会，同一个起点两条路"
+  },
+  "cover": {
+    "tag": "硅基废话 · AI 圈恩怨录",
+    "top": "奥特曼 vs 阿莫迪",
+    "top_34": ["奥特曼", "vs 阿莫迪"],
+    "title": "从战友到对手",
+    "left": "sam_altman",
+    "right": "dario_amodei",
+    "crack": true
+  }
+}

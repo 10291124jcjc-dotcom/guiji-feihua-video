@@ -1,0 +1,21 @@
+{
+  "title": "标题",
+  "brand": "硅基废话",
+  "output_name": "硅基废话｜标题",
+  "people": [],
+  "sources": "（写上真实用到的来源，如 CNBC、Reuters、公司官方博客）",
+  "end_card_seconds": 6.5,
+  "chapters": {
+    "open": "开场",
+    "ending": "结尾"
+  },
+  "cover": {
+    "tag": "硅基废话 · AI 圈",
+    "top": "",
+    "top_34": [],
+    "title": "标题",
+    "left": null,
+    "right": null,
+    "crack": false
+  }
+}
