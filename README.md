@@ -4,11 +4,12 @@
 
 给它一个选题，它负责调研核实、写旁白、把人物照片处理成漫画像、逐笔动画渲染、自己抽帧质检，最后出封面和各平台的发布文案。
 
-![动画预览：笔跟着旁白一笔一笔画出来（无声片段）](examples/2026-09-27%20从战友到对手/preview.gif)
+[![动画预览：笔跟着旁白一笔一笔画出来（点击到油管看完整版）](examples/2026-09-27%20从战友到对手/preview.gif)](https://www.youtube.com/watch?v=S5KILwew-TM)
 
 ## 示例：《奥特曼与阿莫迪：从战友到对手》
 
-- ▶️ **[在线观看完整版（5:37，1080p，有声）](https://10291124jcjc-dotcom.github.io/guiji-feihua-video/)**
+- ▶️ **[在油管观看](https://www.youtube.com/watch?v=S5KILwew-TM)** · 频道：[硅基废话](https://www.youtube.com/@DDJCXX)
+- ▶️ [在线观看（不用登录油管，5:37，1080p）](https://10291124jcjc-dotcom.github.io/guiji-feihua-video/)
 - ⬇️ [下载完整版（约 50MB）](https://github.com/10291124jcjc-dotcom/guiji-feihua-video/raw/main/examples/2026-09-27%20%E4%BB%8E%E6%88%98%E5%8F%8B%E5%88%B0%E5%AF%B9%E6%89%8B/%E4%BB%8E%E6%88%98%E5%8F%8B%E5%88%B0%E5%AF%B9%E6%89%8B.mp4)**（GitHub 页面里不能直接播放这么大的视频）
 - 封面：[横版 4:3](examples/2026-09-27%20从战友到对手/封面-4x3.png) · [竖版 3:4](examples/2026-09-27%20从战友到对手/封面-3x4.png)
 - 旁白稿：[`narration.py`](examples/2026-09-27%20从战友到对手/narration.py)，12 个场景的分镜：[`scenes.py`](examples/2026-09-27%20从战友到对手/scenes.py)
