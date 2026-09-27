@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-This license covers the code in skills/. It does not cover:
-- the example video, subtitles and covers in examples/ (© 硅基废话, all rights reserved);
-- the third-party photos in skills/guiji-feihua-video/assets/people/ (CC BY 2.0, see README for attribution).

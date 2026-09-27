@@ -45,7 +45,7 @@
 ## 致谢与授权
 
 - 风格参考了 [trustfuture/simon-skills 的 whiteboard-video](https://github.com/trustfuture/simon-skills/tree/master/skills/whiteboard-video)（逐笔绘制、跟随旁白节拍的思路），本项目的代码是独立实现的
-- 代码：MIT 许可证，见 [LICENSE](LICENSE)
+- 代码（skills/ 目录）：MIT 许可证，见 [LICENSE](LICENSE)；MIT 不覆盖下面的示例视频、封面和人物照片
 - 示例视频、封面：© 硅基废话，保留所有权利
 - 人物照片（Wikimedia Commons，CC BY 2.0，经裁剪、抠图、漫画化处理）：
   - Sam Altman：[TechCrunch](https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg)
